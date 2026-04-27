@@ -35,7 +35,8 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
     - [Bright-Eyed Birding Learn](https://www.youtube.com/@brighteyedbirdinglearn)
     - [Cornell Lab of Ornithology](https://www.youtube.com/@cornell_lab)
     - [Shayna Cossette Birding + Wildlife](https://www.youtube.com/@ShaynaCossetteBirding)
-- Movies
+- Movies / Documentaries
     - [The Big Year](https://en.wikipedia.org/wiki/The_Big_Year)
+    - [Dancing with the Birds](https://en.wikipedia.org/wiki/Dancing_with_the_Birds)
     - [LISTERS: A Glimpse Into Extreme Birdwatching](https://www.youtube.com/watch?v=zl-wAqplQAo)
     - [The Residence](https://www.audubon.org/magazine/behind-birding-scenes-show-residence)

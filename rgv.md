@@ -124,6 +124,7 @@ NOTE: Spots are listed in order from West to East.
 - (Joe & Tony) [Oliveira Park, Brownsville](https://ebird.org/hotspot/L1918641)
 - [UTRGV Brownsville (campus & resacas)](https://ebird.org/hotspot/L278450)
 - Sabal Palm Sanctuary
+    - USA border gate closes at 5 PM CT, so need to leave outermost sanctuary gate by 4:45 PM CT
     - [Site](https://sabalpalmsanctuary.org)
     - [Sabal Palm Sanctuary (LTC 058)](https://ebird.org/hotspot/L129070)
 - South Padre Island (WBC)
