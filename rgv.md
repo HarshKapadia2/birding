@@ -1,11 +1,14 @@
-# Rio Grande Valley Birding
+# Rio Grande Valley and South Padre Island Birding
 
 Last updated: 27th April 2026
 
 ## Introduction
 
-- One of the best places to bird in the USA, especially for migrants in the spring and fall.
+- The Rio Grande Valley and South Padre Island in Texas are some of the best places to bird in the USA, especially for migrants in the spring and fall.
 - Carrying **mosquito/bug repellent**, sunscreen and water is very important.
+- Due to the proximity to the US-Mexico border, some birding spots may have security checkpoints. Please carry your ID (**passport and visa**) and be prepared for possible delays.
+    - There was a checkpoint on the interstate highway where we had to show our passports and visas.
+    - Sabal Palm Sanctuary has a 5 PM CT gate closure due to the border gate closing at that time, so please leave the sanctuary's outermost gate by 4:45 PM CT to avoid being locked out.
 - The itinerary is quite packed and geared towards birding only, but feel free to modify it.
     - During our first trip in April 2026, Hugh Ramsey Park and Resaca de la Palma didn't have a lot of birds, so we added two more birding spots.
 - Details for each spot are below the itinerary.

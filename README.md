@@ -6,7 +6,7 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
 
 ## Trip Plans
 
-- [Rio Grande Valley](rgv.md)
+- [Rio Grande Valley and South Padre Island, TX, USA](rgv.md)
 
 ## Trip Reports
 
@@ -38,5 +38,8 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
 - Movies / Documentaries
     - [The Big Year](https://en.wikipedia.org/wiki/The_Big_Year)
     - [Dancing with the Birds](https://en.wikipedia.org/wiki/Dancing_with_the_Birds)
+    - [The Life of Birds](https://en.wikipedia.org/wiki/The_Life_of_Birds)
+    - [Birds on the Move](https://www.youtube.com/playlist?list=PLJ73pLDuNfwWHOsFfN4xD80Bb1E6_OHsS)
+    - [Deep in the Heart: A Texas Wildlife Story](https://deepintheheartwildlife.com)
     - [LISTERS: A Glimpse Into Extreme Birdwatching](https://www.youtube.com/watch?v=zl-wAqplQAo)
     - [The Residence](https://www.audubon.org/magazine/behind-birding-scenes-show-residence)
