@@ -17,9 +17,17 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
 
 ## Resources
 
+- Area guides
+    - [The Austin area is a birding hotspot. Here's how you can join the flock](https://www.kut.org/energy-environment/2026-05-07/austin-tx-birding-guide-where-to-bird)
+        - That's me in the cover photo and in the photo pointing out the swallows in my Peterson field guide!
+    - [Rio Grande Valley and South Padre Island, TX, USA](rgv.md)
 - Fields guides
-    - [Kaufman Field Guide to Birds of North America](http://www.kaufmanfieldguides.com/birds.html) (I own this. Pocket size perfect for carrying while birding!)
-    - [Peterson Field Guide to Birds of North America](https://www.amazon.com/Peterson-Field-America-Second-Guides/dp/132877144X) (I own this.)
+    - [Peterson Field Guide to Birds of North America](https://www.amazon.com/Peterson-Field-America-Second-Guides/dp/132877144X)
+        - I own this. Love the book and I usually carry this while birding, even though it is heavier and larger.
+        - Illustrations are drawn by an artist and are excellent, but details on some birds could be depicted a little better and I wish there were more variations in plumages depicted.
+    - [Kaufman Field Guide to Birds of North America](http://www.kaufmanfieldguides.com/birds.html)
+        - I own this. Pocket size perfect for carrying while birding.
+        - Illustrations are edited photographs and not drawings, which feels a little awkward to me. Good depiction of multitude of plumages, though.
     - [Sibley Guide to Birds](https://www.sibleyguides.com/product/the-sibley-guide-to-birds-2)
     - [National Geographic Field Guide to the Birds of North America](https://en.wikipedia.org/wiki/National_Geographic_Field_Guide_to_Birds_of_North_America)
 - Books
