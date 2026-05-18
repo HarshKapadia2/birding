@@ -21,7 +21,7 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
     - [The Austin area is a birding hotspot. Here's how you can join the flock](https://www.kut.org/energy-environment/2026-05-07/austin-tx-birding-guide-where-to-bird)
         - That's me in the cover photo and in the photo pointing out the swallows in my Peterson field guide!
     - [Rio Grande Valley and South Padre Island, TX, USA](rgv.md)
-- Fields guides
+- Field guides
     - [Peterson Field Guide to Birds of North America](https://www.amazon.com/Peterson-Field-America-Second-Guides/dp/132877144X)
         - I own this. Love the book and I usually carry this while birding, even though it is heavier and larger.
         - Illustrations are drawn by an artist and are excellent, but details on some birds could be depicted a little better and I wish there were more variations in plumages depicted.
@@ -32,6 +32,8 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
     - [National Geographic Field Guide to the Birds of North America](https://en.wikipedia.org/wiki/National_Geographic_Field_Guide_to_Birds_of_North_America)
 - Books
     - [What It’s Like to Be a Bird](https://www.sibleyguides.com/product/what-its-like-to-be-a-bird) (I own this.)
+- Videos
+    - [Kite celebrates Flycatcher Weekend in Austin, TX](https://vimeo.com/424549505) (Credits: Suzanne Kho)
 - YouTube channels
     - [Badgerland Birding](https://www.youtube.com/@BadgerlandBirding)
     - [Bright-Eyed Birding](https://www.youtube.com/@brighteyedbirding)
@@ -51,3 +53,5 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
     - [Deep in the Heart: A Texas Wildlife Story](https://deepintheheartwildlife.com)
     - [LISTERS: A Glimpse Into Extreme Birdwatching](https://www.youtube.com/watch?v=zl-wAqplQAo)
     - [The Residence](https://www.audubon.org/magazine/behind-birding-scenes-show-residence)
+- Organisations
+    - [Travis Audubon Society (TAS)](https://travisaudubon.org)
