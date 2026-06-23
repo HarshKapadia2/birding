@@ -34,6 +34,7 @@ A space to collect some of my birding knowledge. Mainly focused on the birds in 
     - [What It’s Like to Be a Bird](https://www.sibleyguides.com/product/what-its-like-to-be-a-bird) (I own this.)
 - Videos
     - [Kite celebrates Flycatcher Weekend in Austin, TX](https://vimeo.com/424549505) (Credits: Suzanne Kho)
+    - [The Secrets of Blue Bird Feathers](https://www.youtube.com/watch?v=R6vvRZDorK0)
 - YouTube channels
     - [Badgerland Birding](https://www.youtube.com/@BadgerlandBirding)
     - [Bright-Eyed Birding](https://www.youtube.com/@brighteyedbirding)
