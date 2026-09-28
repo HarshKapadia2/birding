@@ -10,6 +10,7 @@ A space to collect some of [Harsh Kapadia](https://harshkapadia.me)'s birding kn
 
 ## Trip Reports
 
+- [Corpus Christi, TX, USA (Sep 2026)](https://ebird.org/tripreport/576680)
 - [Rio Grande Valley and South Padre Island, TX, USA (Apr 2026)](https://ebird.org/tripreport/506981)
 - [Corpus Christi, TX, USA (Apr 2026)](https://ebird.org/tripreport/500380) ([Trip summary](https://jepbirding.com/2026-shorebird-class-field-trip-to-corpus-area))
 - [Washington and Oregon, USA, Dec 2025](https://ebird.org/tripreport/454151)
